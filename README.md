@@ -1,0 +1,1 @@
+This program has been deprecated and the most similar is https://www.udemy.com/course/data-science-machine-learning-a-z-hands-on-python/?kw=machine+learning+A-Z%3A+hands&src=sac&couponCode=NEWYEARCAREER
